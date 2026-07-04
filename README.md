@@ -278,13 +278,17 @@ Example:
 ```md id="lv5cgv"
 ## Screenshots
 
-| Home | Link Analyzer |
+| Link Analyzer |
 |---|---|
-| ![Home](./screenshots/home.png) | ![Links](./screenshots/link-analyzer.png) |
+| ![Links](./screenshots/linkanaliser.jpg) | ![Links](./screenshots/suspeito.jpg) |
 
-| Apps & Permissions | Network Statistics |
+| Apps & Permissions |
 |---|---|
-| ![Apps](./screenshots/apps-permissions.png) | ![Network](./screenshots/network-stats.png) |
+| ![Apps](./screenshots/Monitor.jpg) | ![Apps](./screenshots/permissoes.jpg) | ![Apps](./screenshots/perigo.jpg) |
+
+|Score & Password|
+|---|---|
+| ![Apps](./screenshots/score.jpg) | ![Password](./screenshots/senha.jpg) |
 ```
 
 ---
