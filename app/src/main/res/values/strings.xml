@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Privacity</string>
+    <string name="home_title">Privacity</string>
+    <string name="home_subtitle">Proteja a sua privacidade digital</string>
+    <string name="quick_actions">Ações Rápidas</string>
+    <string name="analyze_link">Analisar Link</string>
+    <string name="suspicious_apps">Apps Suspeitas</string>
+    <string name="analyze_wifi">Analisar Wi-Fi</string>
+    <string name="check_password">Verificar Senha</string>
+    <string name="permissions">Permissões</string>
+    <string name="network">Rede</string>
+    <string name="recent_alerts">Alertas Recentes</string>
+    <string name="view_all">Ver todos</string>
+    <string name="security_score">Score de Segurança</string>
+    <string name="level">Nível</string>
+    <string name="safe_checks">%1$d/%2$d verificações seguras</string>
+
+    <!-- Link Checker -->
+    <string name="link_checker_title">Analisador de Links</string>
+    <string name="enter_url">Insira o URL para analisar</string>
+    <string name="url_placeholder">https://exemplo.com</string>
+    <string name="analyze_btn">Analisar Link</string>
+    <string name="analyzing">A analisar…</string>
+    <string name="risk_score">Score Risco</string>
+    <string name="domain">Domínio</string>
+    <string name="protocol">Protocolo</string>
+    <string name="country">País</string>
+    <string name="problems_found">Problemas Encontrados (%1$d)</string>
+    <string name="https_encrypted">HTTPS Encriptado</string>
+    <string name="dns_valid">DNS Resolve Válido</string>
+    <string name="no_dns_spoof">Sem DNS Spoofing</string>
+    <string name="no_url_shortener">Sem Encurtador URL</string>
+    <string name="no_tunnel">Sem Serviço de Túnel</string>
+    <string name="no_suspicious_keywords">Sem Keywords Suspeitas</string>
+    <string name="no_typosquatting">Sem Typosquatting</string>
+    <string name="no_suspicious_redirect">Sem Redirecionamento Suspeito</string>
+    <string name="view_details">Ver Detalhes</string>
+    <string name="history">Histórico</string>
+    <string name="close">Fechar</string>
+
+    <!-- App Detector -->
+    <string name="app_detector_title">Detector de Apps Suspeitas</string>
+    <string name="app_detector_subtitle">Análise de segurança das apps instaladas</string>
+    <string name="start_analysis">Iniciar Análise</string>
+    <string name="analyzing_apps">A analisar apps...</string>
+    <string name="total_apps">Total</string>
+    <string name="suspicious_count">Suspeitas</string>
+    <string name="safe_count">Seguras</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Configurações</string>
+    <string name="background_scan">Análise em Segundo Plano</string>
+    <string name="background_scan_desc">Analisa apps novas e permissões automaticamente</string>
+    <string name="network_limit">Limite de Dados</string>
+    <string name="network_limit_desc">Notificar quando o uso de dados atingir:</string>
+    <string name="language">Idioma</string>
+    <string name="language_desc">Idioma da aplicação</string>
+    <string name="change_language">Alterar</string>
+    <string name="select_language">Selecionar Idioma</string>
+    <string name="portuguese">Português</string>
+    <string name="english">English</string>
+    <string name="russian">Русский</string>
+    <string name="about_info">Informação</string>
+    <string name="app_version">Privacity v1.0.0</string>
+    <string name="version_desc">Proteja a sua privacidade digital.</string>
+
+    <!-- Alert Center -->
+    <string name="alert_center_title">Centro de Alertas</string>
+    <string name="total_alerts">%1$d alertas no total</string>
+    <string name="all_alerts">Todas</string>
+    <string name="critical_alerts">Críticas</string>
+    <string name="warning_alerts">Avisos</string>
+    <string name="info_alerts">Info</string>
+    <string name="no_alerts">Nenhum alerta encontrado</string>
+    <string name="no_alerts_desc">Continue assim!</string>
+    <string name="see_details">Ver detalhes</string>
+
+    <!-- Permission Monitor -->
+    <string name="permission_monitor_title">Monitor de Permissões</string>
+    <string name="permission_monitor_subtitle">Apps com permissões concedidas</string>
+    <string name="no_apps">Nenhuma app encontrada</string>
+    <string name="no_apps_desc">Nenhuma app com esta permissão.</string>
+    <string name="permission_camera">Câmara</string>
+    <string name="permission_microphone">Microfone</string>
+    <string name="permission_location">Localização</string>
+    <string name="permission_sms">SMS</string>
+    <string name="permission_contacts">Contactos</string>
+    <string name="permission_phone">Telefone</string>
+    <string name="permission_storage">Armazenamento</string>
+    <string name="permission_calendar">Calendário</string>
+    <string name="permission_sensors">Sensores</string>
+
+    <!-- Network Stats -->
+    <string name="network_stats_title">Uso de Rede</string>
+    <string name="network_stats_subtitle">Consumo de dados do dispositivo</string>
+    <string name="today">Hoje</string>
+    <string name="this_week">Esta Semana</string>
+    <string name="this_month">Este Mês</string>
+    <string name="this_year">Este Ano</string>
+    <string name="total_device">Total do Dispositivo</string>
+    <string name="downloaded">Download</string>
+    <string name="uploaded">Upload</string>
+    <string name="mobile_data">Dados Móveis</string>
+    <string name="wifi_data">Wi-Fi</string>
+    <string name="no_data">Sem dados disponíveis</string>
+    <string name="refresh">Atualizar</string>
+
+    <!-- Password Checker -->
+    <string name="password_title">Verificador de Senhas</string>
+    <string name="enter_password">Insira a sua senha</string>
+    <string name="password_placeholder">Digite a senha…</string>
+    <string name="check_password_btn">Verificar Senha</string>
+    <string name="strength_title">Força da Senha</string>
+    <string name="extremely_weak">Extremamente Fraca</string>
+    <string name="weak">Fraca</string>
+    <string name="moderate">Moderada</string>
+    <string name="strong">Forte</string>
+    <string name="very_strong">Muito Forte</string>
+    <string name="length_req">Pelo menos 8 caracteres</string>
+    <string name="uppercase_req">Pelo menos 1 maiúscula</string>
+    <string name="lowercase_req">Pelo menos 1 minúscula</string>
+    <string name="number_req">Pelo menos 1 número</string>
+    <string name="special_req">Pelo menos 1 caractere especial</string>
+    <string name="breach_warning">Esta senha foi encontrada em fugas de dados conhecidas!</string>
+    <string name="breach_safe">Senha não encontrada em fugas de dados.</string>
+
+    <!-- Wi-Fi Analyzer -->
+    <string name="wifi_title">Analisador Wi-Fi</string>
+    <string name="scan_wifi">Escanear Redes</string>
+    <string name="open_networks">Redes Abertas</string>
+    <string name="secured_networks">Redes Seguras</string>
+    <string name="wifi_info">Informação Wi-Fi Atual</string>
+    <string name="wifi_risk_warning">Rede aberta - os seus dados podem estar expostos</string>
+    <string name="wifi_safe">Rede segura</string>
+    <string name="signal_strength">Intensidade do Sinal</string>
+    <string name="security">Segurança</string>
+    <string name="frequency">Frequência</string>
+    <string name="channel">Canal</string>
+    <string name="bssid">BSSID</string>
+
+    <!-- Notifications -->
+    <string name="channel_alerts">Alertas Privacity</string>
+    <string name="channel_data">Uso de Dados</string>
+    <string name="app_installed_title">App Instalada: %1$s</string>
+    <string name="app_installed_body">Analise as permissões concedidas a %1$s</string>
+    <string name="data_limit_title">Limite de Dados Atingido</string>
+    <string name="data_limit_body">Já gastou %1$s MB (limite: %2$s MB)</string>
+    <string name="permission_granted_title">Nova Permissão Concedida</string>
+    <string name="permission_granted_body">%1$s obteve acesso a: %2$s</string>
+    <string name="app_alert_title">App Suspeita: %1$s</string>
+    <string name="app_alert_body">Pontuação de risco: %1$d/100. Verifique as permissões.</string>
+</resources>
+
