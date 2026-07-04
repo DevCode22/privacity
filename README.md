@@ -273,25 +273,22 @@ Privacity can be useful in scenarios such as:
 
 > Add screenshots here to showcase the UI, analysis modules, dashboards, and overall app experience.
 
-Example:
+<p align="center">
+  <img src="./app/screenshots/linkanaliser.jpg" width="230" alt="Link Analyzer" />
+  <img src="./app/screenshots/suspeito.jpg" width="230" alt="Suspicious Link Result" />
+</p>
 
-```md id="lv5cgv"
-## Screenshots
+<p align="center">
+  <img src="./app/screenshots/Monitor.jpg" width="230" alt="App Monitor" />
+  <img src="./app/screenshots/permissoes.jpg" width="230" alt="Permissions Monitor" />
+  <img src="./app/screenshots/perigo.jpg" width="230" alt="Risk Detection" />
+</p>
 
-| Link Analyzer |
-|---|---|
-| ![Links](./screenshots/linkanaliser.jpg) | ![Links](./screenshots/suspeito.jpg) |
+<p align="center">
+  <img src="./app/screenshots/score.jpg" width="230" alt="Security Score" />
+  <img src="./app/screenshots/senha.jpg" width="230" alt="Password Checker" />
+</p>
 
-| Apps & Permissions |
-|---|---|
-| ![Apps](./screenshots/Monitor.jpg) | ![Apps](./screenshots/permissoes.jpg) | ![Apps](./screenshots/perigo.jpg) |
-
-|Score & Password|
-|---|---|
-| ![Apps](./screenshots/score.jpg) | ![Password](./screenshots/senha.jpg) |
-```
-
----
 
 ## Portfolio Value
 
@@ -351,7 +348,7 @@ Privacity was designed as a strong foundation for future expansion. Possible nex
 ### Steps
 
 ```bash id="cix83o"
-git clone https://github.com/YOUR-USERNAME/privacity.git
+git clone https://github.com/DevCode22/privacity.git
 cd privacity
 ```
 
