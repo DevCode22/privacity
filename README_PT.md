@@ -271,23 +271,21 @@ O Privacity pode ser útil em cenários como:
 
 ## Capturas de Ecrã
 
-> Adiciona aqui as screenshots do aplicativo para mostrar a interface, os módulos de análise e os dashboards do projeto.
+<p align="center">
+  <img src="./app/screenshots/linkanaliser.jpg" width="230" alt="Link Analyzer" />
+  <img src="./app/screenshots/suspeito.jpg" width="230" alt="Suspicious Link Result" />
+</p>
 
-Exemplo:
+<p align="center">
+  <img src="./app/screenshots/Monitor.jpg" width="230" alt="App Monitor" />
+  <img src="./app/screenshots/permissoes.jpg" width="230" alt="Permissions Monitor" />
+  <img src="./app/screenshots/perigo.jpg" width="230" alt="Risk Detection" />
+</p>
 
-```md id="1a8wpi"
-## Capturas de Ecrã
-
-| Ecrã Inicial | Analisador de Links |
-|---|---|
-| ![Home](./screenshots/home.png) | ![Links](./screenshots/link-analyzer.png) |
-
-| Apps e Permissões | Estatísticas de Rede |
-|---|---|
-| ![Apps](./screenshots/apps-permissions.png) | ![Network](./screenshots/network-stats.png) |
-```
-
----
+<p align="center">
+  <img src="./app/screenshots/score.jpg" width="230" alt="Security Score" />
+  <img src="./app/screenshots/senha.jpg" width="230" alt="Password Checker" />
+</p>
 
 ## Valor para Portfólio
 
@@ -347,7 +345,7 @@ O Privacity foi pensado como uma base forte para evoluções futuras. Algumas me
 ### Passos
 
 ```bash id="ajtl9n"
-git clone https://github.com/SEU-USUARIO/privacity.git
+git clone https://github.com/DevCode22/privacity.git
 cd privacity
 ```
 
